@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reps</string>
+    <string name="start_time">5 Minutes</string>
+    <string name="timer_start_button">Start Timer</string>
+</resources>
